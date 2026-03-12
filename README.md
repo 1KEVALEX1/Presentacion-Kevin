@@ -1,8 +1,8 @@
 # Presentación técnica - Kevin Alexis
 ## 1. Quien Soy
-  Mi nombre es Kevin Alexis Barranco Garcia, tengo 20 años y actualmente soy estudiante de la carrera de Ingeniería en sistemas computacionales en la ESCOM y personalmente me gusta mucho el área de   ciberseguridad y redes.
+  Mi nombre es Kevin Alexis Barranco Garcia, tengo 20 años y personalmente me gusta mucho el área de   ciberseguridad y redes.
 ## 2. Contexto Actual
-  Actualmente soy estudiante y tengo conocimientos en programación, sistemas operativos y redes. Me interesa mucho el área de Linux, seguridad informática y análisis de sistemas. Me gustaria desarrollar habilidades mas profesionales que me puedan ayudar a entender de una manera más profunda como es que funcionan los sistemas para poder detectar y protegerlos de vulnerabilidades.
+  Actualmente soy estudiante de 6to semestre en la carrera de Ingeniería en Sistemas Computacionales en Escom y tengo conocimientos en programación, sistemas operativos y redes. Me interesa mucho el área de Linux, seguridad informática y análisis de sistemas. He estado trabajando un poco en proyectos de ciberseguridad por parte de mi servicio social y en temas de programación, bases de datos y sistemas por parte de mi carrera.
 
 ## 3. Qué sé hoy 
   Tengo conocimientos en:
